@@ -24,3 +24,8 @@ The code was written to loop over the data to compile the county and candidate v
   * Winning vote count: 272,892
   * Winning vote percentage: 73.8%
 
+<img width="740" alt="Results Code A" src="https://user-images.githubusercontent.com/96451672/150653338-54523951-fa97-4379-9750-77901d7cbfbd.png">
+<img width="698" alt="Results Code B" src="https://user-images.githubusercontent.com/96451672/150653341-5d82e776-5a6c-4ed9-a28b-57e8103a9cd2.png">
+
+## Summary
+The script presented here can be utilized again in other election audits. It can be used in the same fashion to collect the same type of information with modification needed to fit the layout of the new data. There is also the opportunity to use this script and its results for further analysis in elections by analyzing the number and percentage of votes for each candidate in each county. Additional data, such as demographics, could be added to get a clearer picture of which voter types for each candidate and in which counties they reside.
